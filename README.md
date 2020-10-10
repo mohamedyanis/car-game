@@ -1,4 +1,4 @@
-# Shoot Game
+# Python Car Game
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
@@ -29,7 +29,7 @@ Begin          | Playing
 1. Download Processing3 from this link: https://processing.org/download/
 2. Install this repository, click <a href="https://github.com/mohamedyanis/py-car-game/archive/master.zip"> here </a> to install it.
 3. Extract the folder.
-4. Open the ```shoot_game.pde``` file.
+4. Open the ```CarGame.pde``` file.
 5. Run it :)
 
 ## Contributing 💡
